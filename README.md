@@ -1,3 +1,8 @@
+快速构建开发、测试、生产（Docker + Nginx + MySQL + PHP7/5 + Redis + Crond + Queue）的容器环境（DNMP一键安装程序）。
+
+![图片](https://user-images.githubusercontent.com/79198870/165239213-2702d653-d61d-4c58-b3f6-e8511db26d07.png)
+
+
 DNMP（Docker + Nginx/Openresty + MySQL5,8 + PHP5,7,8 + Redis + ElasticSearch + MongoDB + RabbitMQ）是一款全功能的**LNMP一键安装程序，支持Arm CPU**。
 
 > 使用前最好提前阅读一遍[目录](#目录)，以便快速上手，遇到问题也能及时排除。
